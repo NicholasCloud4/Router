@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <>
             <h1>Home Page</h1>
-            <p>Go to <Link to="/products">the list of products.</Link></p>
+            <p>Go to <Link to="products">the list of products.</Link></p>
         </>
     )
 }
